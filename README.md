@@ -1,6 +1,6 @@
 # Customer-DataDive
 
-This Data Dive divides a customer's profile into 5 income ranges.
+This Data Dive divides a customer's profile into 4 income ranges.
 For the 5 ranges, a Regression Decision tree is used to see what traits of a customer are more prevalent among one income range than another.
 A second decision tree is built for only the 5 types of purchases customers make at the store to see which income range is buying the most porducts
 
@@ -50,3 +50,5 @@ Need to perform clustering to summarize customer segments.
 
 Acknowledgement
 The dataset for this project is provided by Dr. Omar Romero-Hernandez.
+
+Findings of the DataDive are in the dataDive4.ipynb file
